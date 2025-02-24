@@ -1,6 +1,5 @@
 # 📌 Habit Tracker
 
-![Habit Tracker Banner](https://via.placeholder.com/1000x300?text=Habit+Tracker)
 
 A simple yet powerful Habit Tracker app to help you stay consistent with your daily habits and goals. Keep track of your progress, build routines, and achieve more with an intuitive interface. 🚀
 
